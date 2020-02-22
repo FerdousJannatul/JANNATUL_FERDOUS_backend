@@ -1,0 +1,51 @@
+{
+  "Books": [{
+      "title": "Harry Potter",
+      "category": "Book",
+      "categoryIcon": "book"
+    },
+    {
+      "title": "Originals",
+      "category": "Book",
+      "categoryIcon": "book"
+    },
+    {
+      "title": "Essentialism",
+      "category": "Book",
+      "categoryIcon": "book"
+    }
+  ],
+
+  "Foods": [{
+    "name": "Chicken",
+    "category": "Food",
+    "categoryIcon": "food"
+  },
+    {
+      "name": "Pizza",
+      "category": "Food",
+      "categoryIcon": "food"
+    },
+    {
+      "name": "Burger",
+      "category": "Food",
+      "categoryIcon": "food"
+    }
+  ],
+  "Games": [{
+    "type": "Chess",
+    "category": "Game",
+    "categoryIcon": "game"
+  },
+    {
+      "type": "Cricket",
+      "category": "Game",
+      "categoryIcon": "game"
+    },
+    {
+      "type": "Card",
+      "category": "Game",
+      "categoryIcon": "game"
+    }
+  ]
+}
